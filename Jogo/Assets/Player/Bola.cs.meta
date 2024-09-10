@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 2991d84965628f1488f0dd9381709263
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - PortaVerde: {fileID: 5140089016502019906, guid: ed1fced7361d2f542af43823fdf2c0c5,
+      type: 3}
+  - PortaAzul: {fileID: 1412408269409484526, guid: f63b01a9daaaee74db208ae168054ccb,
+      type: 3}
+  - PortaVermelha: {fileID: 2609759298247442079, guid: 3e5b3da4e75f64644b9139b69f227380,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
